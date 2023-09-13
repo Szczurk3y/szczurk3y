@@ -5,11 +5,12 @@
 
 ⚙️ Check out my latest projects:
 
-      🔗 [Matching Cards - Flutter & Dart App](https://github.com/Szczurk3y/matching_cards)
+&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Matching Cards - Flutter](https://github.com/Szczurk3y/matching_cards)
 
-      🔎 [Repository Finder - Android & Kotlin App](https://github.com/Szczurk3y/RepositoryFinder)
+&nbsp;&nbsp;&nbsp;&nbsp;🔎 [Repository Finder - Android & Kotlin App](https://github.com/Szczurk3y/RepositoryFinder)
 
-      📱 [Todo App - Android & Kotlin App](https://github.com/Szczurk3y/Todo-App)
+&nbsp;&nbsp;&nbsp;&nbsp;📱 [Todo App - Android & Kotlin App](https://github.com/Szczurk3y/Todo-App)
+
 📧 Email: stoinski.mac@gmail.com
 
 💬 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/maciej-stoi%C5%84ski-b047b2166/)
