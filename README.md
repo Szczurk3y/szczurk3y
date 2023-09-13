@@ -1,11 +1,17 @@
 ### Hi there 👋
 🚀 Passionate Developer 
+
 🌱 Currently diving into Android Compose and exploring Flutter
+
 ⚙️ Check out my latest projects:
-      🔗 Matching Cards - Flutter & Dart App
-      🔎 Repository Finder - Android & Kotlin App
-      📱 Todo App - Android & Kotlin App
+
+      🔗 [Matching Cards - Flutter & Dart App](https://github.com/Szczurk3y/matching_cards)
+
+      🔎 [Repository Finder - Android & Kotlin App](https://github.com/Szczurk3y/RepositoryFinder)
+
+      📱 [Todo App - Android & Kotlin App](https://github.com/Szczurk3y/Todo-App)
 📧 Email: stoinski.mac@gmail.com
+
 💬 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/maciej-stoi%C5%84ski-b047b2166/)
 
 <!--
