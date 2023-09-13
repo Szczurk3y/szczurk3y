@@ -1,8 +1,8 @@
 ### Hi there 👋
-🚀 Passionate Developer <br />
-🎓 Ambitious Junior <br />
+🚀 I'm passionate Android Developer <br />
+🎓 I'm ambitious Junior+ <br />
 🌱 Currently diving into Android Compose and Flutter <br />
-⚙️ 2nd tech stack: Jira | Git | Rest | Firebase | Material Design <br />
+⚙️ My side tech stack: Jira | Git | Rest | Firebase | Material Design <br />
 📧 Email: stoinski.mac@gmail.com <br />
 💬 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/maciej-stoi%C5%84ski-b047b2166/) <br />
 
