@@ -1,21 +1,10 @@
 ### Hi there 👋
-🚀 Passionate Developer 
-
-🎓 Ambitious Junior
-
-🌱 Currently diving into Android Compose and Flutter
-
-⚙️ Check out my latest projects:
-
-&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Matching Cards - Flutter](https://github.com/Szczurk3y/matching_cards)
-
-&nbsp;&nbsp;&nbsp;&nbsp;🔎 [Repository Finder - Android & Kotlin App](https://github.com/Szczurk3y/RepositoryFinder)
-
-&nbsp;&nbsp;&nbsp;&nbsp;📱 [Todo App - Android & Kotlin App](https://github.com/Szczurk3y/Todo-App)
-
-📧 Email: stoinski.mac@gmail.com
-
-💬 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/maciej-stoi%C5%84ski-b047b2166/)
+🚀 Passionate Developer <br />
+🎓 Ambitious Junior <br />
+🌱 Currently diving into Android Compose and Flutter <br />
+⚙️ 2nd tech stack: Jira | Git | Rest | Firebase | Material Design <br />
+📧 Email: stoinski.mac@gmail.com <br />
+💬 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/maciej-stoi%C5%84ski-b047b2166/) <br />
 
 <!--
 **Szczurk3y/szczurk3y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
