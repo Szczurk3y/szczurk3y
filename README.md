@@ -1,7 +1,9 @@
 ### Hi there 👋
 🚀 Passionate Developer 
 
-🌱 Currently diving into Android Compose and exploring Flutter
+🎓 Ambitious Junior
+
+🌱 Currently diving into Android Compose and Flutter
 
 ⚙️ Check out my latest projects:
 
