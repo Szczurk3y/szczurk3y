@@ -1,8 +1,11 @@
 ### Hi there 👋
-🚀 I'm passionate Android Developer <br />
-🎓 I'm ambitious Junior+ <br />
+🚀 I'm passionate and ambitious Junior Android Developer <br />
 🌱 Currently diving into Android Compose and Flutter <br />
 ⚙️ My side tech stack: Jira | Git | Rest | Firebase | Material Design <br />
+🎓 Certificates: <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Android 12 Jetpack Compose Developer Course [Udemy] <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Flutter & Dart - The Complete Guide [2023 Edition, Udemy] <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• The Git & Github Bootcamp [Udemy] <br />
 📧 Email: stoinski.mac@gmail.com <br />
 💬 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/maciej-stoi%C5%84ski-b047b2166/) <br />
 
