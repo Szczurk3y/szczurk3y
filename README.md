@@ -5,7 +5,7 @@
 🎓 Certificates: <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Android 12 Jetpack Compose Developer Course [Udemy]](https://www.udemy.com/certificate/UC-480d5c12-c3e6-428d-bc72-1ce11bdcf3ea/) <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [Flutter & Dart - The Complete Guide [2023 Edition, Udemy]](https://www.udemy.com/certificate/UC-67c2eb5e-6c56-4c95-b083-8258cef916db/) <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [The Git & Github Bootcamp [Udemy]]()](https://www.udemy.com/certificate/UC-ea2deb12-5222-4117-98d9-75074412f15d/) <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• [The Git & Github Bootcamp [Udemy]](https://www.udemy.com/certificate/UC-ea2deb12-5222-4117-98d9-75074412f15d/) <br />
 📧 Email: stoinski.mac@gmail.com <br />
 💬 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/maciej-stoi%C5%84ski-b047b2166/) <br />
 
