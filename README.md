@@ -1,6 +1,6 @@
 ### Hi there 👋
-🚀 I'm passionate and ambitious Junior Android Developer <br />
-🌱 Currently diving into Android Compose and Flutter <br />
+🚀 I'm passionate and ambitious developer <br />
+🌱 Currently diving into Android and Kotlin <br />
 ⚙️ My side tech stack: Jira | Git | Rest | Firebase | Material Design <br />
 🎓 Certificates: <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• <a href="https://www.udemy.com/certificate/UC-480d5c12-c3e6-428d-bc72-1ce11bdcf3ea/" target="_blank"> Android 12 Jetpack Compose Developer Course [Udemy] </a><br />
